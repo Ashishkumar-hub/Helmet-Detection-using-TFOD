@@ -1,6 +1,3 @@
-# Author: Sourangshu Pal
-# Date: 15/11/19
-# Import packages
 import os
 import sys
 # from object_detection.utils import label_map_util
